@@ -1,0 +1,10 @@
+{
+  "redux-store": "Redux do'koni",
+  "tickets": "Chiptalar",
+  "phones": "Telefonlar",
+  "laptops": "Noutbuklar",
+  "buy1": "1 ta sotib olish",
+  "buy3": "3 ta sotib olish",
+  "buy-phone": "Telefon sotib olish",
+  "buy-laptop": "Noutbuk sotib olish"
+}

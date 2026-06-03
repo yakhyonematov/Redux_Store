@@ -1,0 +1,10 @@
+{
+  "redux-store": "Redux Mağazası",
+  "tickets": "Biletler",
+  "phones": "Telefonlar",
+  "laptops": "Dizüstü Bilgisayarlar",
+  "buy1": "1 Adet Satın Al",
+  "buy3": "3 Adet Satın Al",
+  "buy-phone": "Telefon Satın Al",
+  "buy-laptop": "Dizüstü Bilgisayar Satın Al"
+}

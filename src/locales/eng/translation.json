@@ -1,0 +1,10 @@
+{
+  "redux-store": "Redux Store",
+  "tickets": "Tickets", 
+  "phones": "Phones", 
+  "laptops": "Laptops",
+  "buy1": "Buy 1", 
+  "buy3": "Buy 3", 
+  "buy-phone": "Buy Phone",
+  "buy-laptop": "Buy Laptop"
+}
