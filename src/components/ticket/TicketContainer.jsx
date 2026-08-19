@@ -1,4 +1,3 @@
-import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { buyTicket1, buyTicket3 } from "../../redux/Ticket/ticketActions";
 import { useLang } from "../../hooks/language/useLang";

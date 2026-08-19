@@ -1,4 +1,3 @@
-import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { buyPhone } from "../../redux/Phone/phoneAction";
 import { useLang } from "../../hooks/language/useLang";

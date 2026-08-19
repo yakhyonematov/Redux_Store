@@ -1,4 +1,3 @@
-import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { buyLaptop } from "../../redux/Laptop/laptopAction";
 import { useLang } from "../../hooks/language/useLang";
